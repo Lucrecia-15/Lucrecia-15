@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Lucrecia</h1>
 <h3 align="center">Desarrolladora Web Full Stack</h3>
 
-- ❤️ Proyecto actual  [ReroVinyl](https://github.com/Lucrecia-15/RetroVinyl__finalProject)
+- ❤️ Proyecto actual  [RetroVinyl](https://github.com/Lucrecia-15/RetroVinyl__finalProject)
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/Lucrecia-15?tab=repositories](https://github.com/Lucrecia-15?tab=repositories)
 
