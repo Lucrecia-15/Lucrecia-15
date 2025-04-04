@@ -11,8 +11,8 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/lucrecia-parodi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucrecia parodi" height="30" width="40" /></a>
-<a href="[https://www.instagram.com/lucreparodi?igsh=Zzc0MTNnMndlMGg5&utm_source=qr]" target="blank"><img align="center" src="https://www.instagram.com/lucreparodi?igsh=Zzc0MTNnMndlMGg5&utm_source=qr" alt="lucre parodi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/lucrecia-parodi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/lucrecia-parodi" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/lucreparodi?igsh=zzc0mtnnmndlmgg5&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/lucreparodi?igsh=zzc0mtnnmndlmgg5&utm_source=qr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Idiomas y herramientas:</h3>
