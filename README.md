@@ -1,6 +1,5 @@
 <h1 align="star">Hola 👋, soy Lucrecia</h1>
 <h3 align="start">Desarrolladora Full Stack</h3>
-<br></br>
 <h4 align="start">Soy una entusiasta creadora 💫, enfocada en construir aplicaciones web funcionales y bien estructuradas con React. Comprometida con el aprendizaje continuo y las buenas prácticas de desarrollo.</h4>
 
 
