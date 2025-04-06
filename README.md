@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Lucrecia</h1>
-<h3 align="center">Desarrolladora Web Full Stack</h3>
+<h3 align="center">Desarrolladora Full Stack entuciasta, enfocada en construir aplicaciones web funcionales y bien estructuradas con React. Comprometida con el aprendizaje continuo y las buenas prácticas de desarrollo.</h3>
 
 - ❤️ Proyecto actual  [RetroVinyl](https://github.com/Lucrecia-15/RetroVinyl__finalProject)
 
