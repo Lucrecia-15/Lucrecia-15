@@ -10,7 +10,7 @@
 
 - 📫 Cómo contactarme **parodilucrecia@gmail.com**
 
-- 📄 Conoce mis experiencias [https://app.enhancv.com/share/7db6ed84/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic](https://app.enhancv.com/share/7db6ed84/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
+- 📄 Conoce mis experiencias https://app.enhancv.com/share/7db6ed84/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
