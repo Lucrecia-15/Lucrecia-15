@@ -4,7 +4,7 @@
 
 
 
-- ❤️ Proyecto actual  [RetroVinyl](https://github.com/Lucrecia-15/RetroVinyl__finalProject)
+- ❤️ Proyecto actual  [Linguo](https://github.com/Lucrecia-15/Linguo_proyect)
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/Lucrecia-15?tab=repositories](https://github.com/Lucrecia-15?tab=repositories)
 
