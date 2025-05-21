@@ -8,6 +8,8 @@
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/Lucrecia-15?tab=repositories](https://github.com/Lucrecia-15?tab=repositories)
 
+- 🌐 Mi portfolio web: https://lucrecia-portfolio.vercel.app/
+
 - 📫 Cómo contactarme **parodilucrecia@gmail.com**
 
 - 📄 Conoce mis experiencias https://app.enhancv.com/share/7db6ed84/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic
